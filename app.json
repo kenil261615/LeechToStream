@@ -1,6 +1,6 @@
 {
   "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @moviezonlysupport!",
+  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @streamflix_app!",
   "keywords": [
     "telegram",
     "best",
@@ -14,7 +14,7 @@
     "leecher"
   ],
   "repository": "https://githhttps://github.com/prgofficial/TorrentLeech-GDriVe",
-  "success_url": "https://t.me/moviezonlysupport",
+  "success_url": "https://t.me/streamflix_app",
   "website": "https://github.com/prgofficial/TorrentLeech-GDriVe",
   "env": {
     "ENV": {
